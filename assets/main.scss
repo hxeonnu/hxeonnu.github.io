@@ -1,0 +1,48 @@
+---
+---
+
+@import "minima";
+
+.post-content h2 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 56px;
+  margin-bottom: 18px;
+}
+
+.post-content h3 {
+  font-size: 21px;
+  font-weight: 700;
+  margin-top: 36px;
+  margin-bottom: 12px;
+}
+
+.post-content p,
+.post-content ul,
+.post-content ol {
+  margin-bottom: 18px;
+}
+
+.post-content li {
+  margin-bottom: 4px;
+}
+
+.post-content img {
+  margin: 12px 0 6px;
+}
+
+.post-content img + em {
+  display: block;
+  margin-bottom: 28px;
+  color: #828282;
+  font-size: 14px;
+}
+
+.site-title,
+.site-title:visited {
+  font-weight: 700;
+}
+
+.post-title {
+  font-weight: 700;
+}
